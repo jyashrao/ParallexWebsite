@@ -5,7 +5,7 @@
 }
 
 #wrapper{
-    height:100vh;
+    height:101vh;
     perspective:10px;
     overflow-x:hidden;
 }
